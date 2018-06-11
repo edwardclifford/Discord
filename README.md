@@ -32,7 +32,11 @@ It is suggested to have a role for each group of students, so that we can be org
 You can individually tweak each role to have certain permissions. I set up the example discord like follows: *if we want to use the channel I made, these roles can be easily edited and added to*
 
   **Administrator:** Holds all permisions, is ruler of the channel, and controls all lower roles (i.e. You)
+  
   **Instructors:** Is a designation, meaning these peoples names will show up in blue. They have the same permisions, but obviously can't remove you from power.
+  
   **Moderators:** They have less power than instructors, but can still remove messages and users that are acting inapporprietly. This is where I will hang out, at least to start.
+  
   **Students:** This permission spans 10 different roles, but the only difference is the color and title of the role. No one group has power over the others
+  
   **Base permissions (i.e. everyone that joins):** They will only have permission to request status as a member or student. This prevents random and unverified people from joining the chat and mucking up the place (This is rare as only Admins and Moderators can invite people to the channel)
