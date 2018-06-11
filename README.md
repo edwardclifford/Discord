@@ -17,7 +17,7 @@ We will be able to comminicate faster as friends using Discord, and we will be a
 
 This step is also optional, as I already have a channel running as an example, but it can be used as the primary channel, it is fully functional. Creating a new channel with all the features needed took about an hour, but it is up to you if you want to start from scratch.
 
-If you do, follow the next few steps. If not, skip to the last step!
+If you do, follow the next steps. If not, skip to **Step 7**!
 
 ### Step 4: Create Roles for each group
 
@@ -40,3 +40,29 @@ You can individually tweak each role to have certain permissions. I set up the e
   **Students:** This permission spans 10 different roles, but the only difference is the color and title of the role. No one group has power over the others
   
   **Base permissions (i.e. everyone that joins):** They will only have permission to request status as a member or student. This prevents random and unverified people from joining the chat and mucking up the place (This is rare as only Admins and Moderators can invite people to the channel)
+
+### Step 6: Welcome message
+
+![creating channel](https://github.com/edwardclifford/Discord/blob/master/welcome.PNG)
+
+Create a welcome message in a section of the channel that only Admins can contribute. This will explain to users how to get their roles and how to report inappropriate behavior. I typed out a quick message as an example in the picture above.
+
+### Step 7: Inviting members:
+
+![creating channel](https://github.com/edwardclifford/Discord/blob/master/invite.PNG)
+
+Now it is time to invite everyone! I suggest that we invite the Instuctors first (or at least a few of them) and get them situated with their roles and how to moderate. Then, we could have Ms. Kelley send a mass email with the share code (which students only need to click on, then create an account, to join) or post it on Piazza (or both!). Once everyone starts rolling in, we can...
+
+### Step 8: Assigning roles:
+
+![creating channel](https://github.com/edwardclifford/Discord/blob/master/role%20assignment.PNG)
+
+Students can request roles in a special channel that will prevent spam, and allow moderators to verify that they are actually students. As stated in the Welcome message, I created a Member role to provide an option to students that did not necessarily get accepted, but want to continue to work with us.
+
+### Conclusion:
+
+Thank you for letting me help with this project! I am excited to get to know everyone using the Discord! Like I said earlier, I am perfectly fine helping you set up a new channel, but I believe the example one I created has everything we need for an ejoyable experience for all! 
+
+-Ted Clifford
+
+Discord username: Ted#0129
