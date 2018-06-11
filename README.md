@@ -28,3 +28,8 @@ It is suggested to have a role for each group of students, so that we can be org
 ### Step 5: Permissions
 
 ![creating channel](https://github.com/edwardclifford/Discord/blob/master/permisions.PNG)
+
+You can individually tweak each role to have certain permissions. I set up the example discord like follows: *if we want to use the channel I made, these roles can be easily edited and added to*
+
+⋅⋅*Administrator: Holds all permisions, is ruler of the channel, and controls all lower roles (i.e. You)
+⋅⋅*Instructors: 
