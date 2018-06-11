@@ -15,9 +15,9 @@ We will be able to comminicate faster as friends using Discord, and we will be a
 
 ![creating channel](https://github.com/edwardclifford/Discord/blob/master/Create.PNG)
 
-This step is also optional, as I already have a channel running as an example, but it can be used as the primary channel, it is fully functional. Creating a new channel with all the features needed took about an hour, but it is up to you if you want to start from scratch.
+This step is also optional, as I already have created a fully functional channel as an example, but it can be used as the primary channel. Creating a new channel with all the features needed took about an hour, but it is up to you if you want to start from scratch. I have sent you the channel link in the email.
 
-If you do, follow the next steps. If not, skip to **Step 7**!
+If you do want to create your own channel, follow the next steps. If not, skip to **Step 7**!
 
 ### Step 4: Create Roles for each group
 
