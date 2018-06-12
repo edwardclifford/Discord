@@ -1,6 +1,11 @@
 Welcome to the Guide on Creating the BWSI 2018 Discord Channel
 ==============================================================
 
+## Key Words
+**Channel** - Refers to the server as a whole
+**Room** - A specific chat room
+**Role** - A set of rules regarding permissions that is helpful when categorizing users
+
 ### Step 1: Setting up your account
 
 Simply go to https://discordapp.com/register to create an account, or login if you alread have one. All members and instructors will have to own an account to participate in the channel. It is suggested that they authenticate their account with their email, to protect themselves, and the channels they are in.
@@ -17,7 +22,7 @@ We will be able to comminicate faster as friends using Discord, and we will be a
 
 This step is also optional, as I already have created a fully functional channel as an example, but it can be used as the primary channel. Creating a new channel with all the features needed took about an hour, but it is up to you if you want to start from scratch. I have sent you the channel link in the email.
 
-If you do want to create your own channel, follow the next steps. If not, skip to **Step 7**!
+If you do want to create your own channel, follow the next steps. If not, skip to **Step 8**!
 
 ### Step 4: Create Roles for each group
 
@@ -41,19 +46,31 @@ You can individually tweak each role to have certain permissions. I set up the e
   
   **Base permissions (i.e. everyone that joins):** They will only have permission to request status as a member or student. This prevents random and unverified people from joining the chat and mucking up the place (This is rare as only Admins and Moderators can invite people to the channel)
 
-### Step 6: Welcome message
+### Step 6: Creating rooms
+
+![creating channel](https://github.com/edwardclifford/Discord/blob/master/categories.PNG)
+
+This is where the meat of the channel comes into focus. Most large channels seperate their chat rooms into different categories. In the example I sent you, I created 4 types of categories: **Information**, **General**, **Specified**, and **Administration**.
+
+The first and the last of those channels can (for the most part) only be accessed or contributed to by specific members. The **Information** category is for the Welcome channel, which the members will first see when they join, and Announcements channel, where members can go to see posts from instructors. This is sort of like a pin board for the channel. 
+
+The **General** category contains text rooms and a voice rooms for more general interactions, like making friends and contacts between different programs. The **Specified** categories are more for focused groups of students belonging to the same program to communicate. It can be set that only students withing that program can see and interact with those rooms (though this *could* lead to exclusion, it would also lead to a nicer user experience as they would not need to deal with the clutter of other rooms). 
+
+Rooms can be easily added and removed, and user input would be appreciated on what and how many rooms are needed. I only added a few for each section in my example.
+
+### Step 7: Welcome message
 
 ![creating channel](https://github.com/edwardclifford/Discord/blob/master/welcome.PNG)
 
 Create a welcome message in a section of the channel that only Admins can contribute. This will explain to users how to get their roles and how to report inappropriate behavior. I typed out a quick message as an example in the picture above.
 
-### Step 7: Inviting members:
+### Step 8: Inviting members:
 
 ![creating channel](https://github.com/edwardclifford/Discord/blob/master/invite.PNG)
 
 Now it is time to invite everyone! I suggest that we invite the Instuctors first (or at least a few of them) and get them situated with their roles and how to moderate. Then, we could have Ms. Kelley send a mass email with the share code (which students only need to click on, then create an account, to join) or post it on Piazza (or both!). Once everyone starts rolling in, we can start...
 
-### Step 8: Assigning roles:
+### Step 9: Assigning roles:
 
 ![creating channel](https://github.com/edwardclifford/Discord/blob/master/role%20assignment.PNG)
 
