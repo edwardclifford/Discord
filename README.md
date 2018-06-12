@@ -55,7 +55,7 @@ This is where the meat of the channel comes into focus. Most large channels sepe
 
 The first and the last of those channels can (for the most part) only be accessed or contributed to by specific members. The **Information** category is for the Welcome channel, which the members will first see when they join, and Announcements channel, where members can go to see posts from instructors. This is sort of like a pin board for the channel. 
 
-The **General** category contains text rooms and a voice rooms for more general interactions, like making friends and contacts between different programs. The **Specified** categories are more for focused groups of students belonging to the same program to communicate. It can be set that only students withing that program can see and interact with those rooms (though this *could* lead to exclusion, it would also lead to a nicer user experience as they would not need to deal with the clutter of other rooms). 
+The **General** category contains text rooms and a voice rooms for more general interactions, like making friends and contacts between different programs. The **Specified** categories are more for focused groups of students belonging to the same program to communicate. It can be set that only students within that program can see and interact with those rooms (though this *could* lead to exclusion, it would also lead to a nicer user experience as they would not need to deal with the clutter of other rooms). 
 
 Rooms can be easily added and removed, and user input would be appreciated on what and how many rooms are needed. I only added a few for each section in my example.
 
