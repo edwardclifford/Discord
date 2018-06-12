@@ -1,7 +1,4 @@
-![bwsi logo](https://github.com/edwardclifford/Discord/blob/master/bw-logo.51ae55420332.png)
 # Creating the BWSI 2018 Discord Server
-=======================================
-
 
 ## Key Words
 **Channel** - Refers to the server as a whole
@@ -87,3 +84,5 @@ Thank you for letting me help with this project! I am excited to get to know eve
 -Ted Clifford
 
 Discord username: Ted#0129
+
+![bwsi logo](https://github.com/edwardclifford/Discord/blob/master/bw-logo.51ae55420332.png)
