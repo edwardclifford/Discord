@@ -51,7 +51,7 @@ Create a welcome message in a section of the channel that only Admins can contri
 
 ![creating channel](https://github.com/edwardclifford/Discord/blob/master/invite.PNG)
 
-Now it is time to invite everyone! I suggest that we invite the Instuctors first (or at least a few of them) and get them situated with their roles and how to moderate. Then, we could have Ms. Kelley send a mass email with the share code (which students only need to click on, then create an account, to join) or post it on Piazza (or both!). Once everyone starts rolling in, we can...
+Now it is time to invite everyone! I suggest that we invite the Instuctors first (or at least a few of them) and get them situated with their roles and how to moderate. Then, we could have Ms. Kelley send a mass email with the share code (which students only need to click on, then create an account, to join) or post it on Piazza (or both!). Once everyone starts rolling in, we can start...
 
 ### Step 8: Assigning roles:
 
@@ -61,7 +61,7 @@ Students can request roles in a special channel that will prevent spam, and allo
 
 ### Conclusion:
 
-Thank you for letting me help with this project! I am excited to get to know everyone using the Discord! Like I said earlier, I am perfectly fine helping you set up a new channel, but I believe the example one I created has everything we need for an ejoyable experience for all! 
+Thank you for letting me help with this project! I am excited to get to know everyone using the Discord! Like I said earlier, I am perfectly fine helping you set up a new channel, but I believe the example one I created has everything we need for an enjoyable experience for all!
 
 -Ted Clifford
 
