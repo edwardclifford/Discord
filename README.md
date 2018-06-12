@@ -3,7 +3,9 @@ Welcome to the Guide on Creating the BWSI 2018 Discord Channel
 
 ## Key Words
 **Channel** - Refers to the server as a whole
+
 **Room** - A specific chat room
+
 **Role** - A set of rules regarding permissions that is helpful when categorizing users
 
 ### Step 1: Setting up your account
