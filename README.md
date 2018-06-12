@@ -1,4 +1,4 @@
-[bwsi logo](https://github.com/edwardclifford/Discord/blob/master/bw-logo.51ae55420332.png)
+![bwsi logo](https://github.com/edwardclifford/Discord/blob/master/bw-logo.51ae55420332.png)
 # Creating the BWSI 2018 Discord Server
 =======================================
 
