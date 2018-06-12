@@ -1,6 +1,6 @@
 # Creating the BWSI 2018 Discord Server
 
-## Key Words
+### Key Words
 **Channel** - Refers to the server as a whole
 
 **Room** - A specific chat room
